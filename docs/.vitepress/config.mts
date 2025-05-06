@@ -18,7 +18,7 @@ export default defineConfig({
       { text: '相关文档',
 				items: [
 					{ text: 'Vue3', link: '/vue3/index' },
-					{ text: 'TypeScript', link: '/typeScript/index' },
+					{ text: 'TypeScript', link: '/typeScripts/index' },
 					{ text: '微信小程序', link: '/wechat/index' },
 				]
 			},
@@ -49,13 +49,13 @@ export default defineConfig({
 					]
 				}
 			],
-			'/typeScript/': [
+			'/typeScripts/': [
 				{
 					text: 'TypeScript',
 					items: [
-						{ text: 'Index', link: '/typeScript/index' },
-						{ text: 'Index1', link: '/typeScript/index1' },
-						{ text: 'Index2', link: '/typeScript/index2' },
+						{ text: 'Index', link: '/typeScripts/index' },
+						{ text: 'Index1', link: '/typeScripts/index1' },
+						{ text: 'Index2', link: '/typeScripts/index2' },
 					]
 				}
 			],

@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+	base: '/CL-Notes/',
   title: "CL Notes",
   description: "My Daily Notes",
   themeConfig: {
